@@ -10,7 +10,7 @@ Gosto de resolver problemas utilizando a programação.
 <br />
 Software Developer :computer:
 
-
+## Cursando Etec - 3º e ultimo módulo
   
 
  
@@ -28,9 +28,9 @@ Software Developer :computer:
 <!-- visitors count  -->
 
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/alexiakattah/count.svg" />  
+  <img src="https://profile-counter.glitch.me/Fabio-Vini/count.svg" />  
 </p>
 
 <!-- github workflow  -->
 
- ![github contribution grid snake animation](https://raw.githubusercontent.com/alexiakattah/alexiakattah/output/github-contribution-grid-snake.svg)
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/Fabio-Vini/alexiakattah/output/github-contribution-grid-snake.svg)
