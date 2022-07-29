@@ -1,5 +1,9 @@
-# portifolio
+# Portifolio
 Portifólio do desenvolvedor
+
+## Tarefas
+O controle de tarefas desse projeto será realizado no GitHub
+
 <img width="auto" src="https://rockcontent.com/br/wp-content/uploads/sites/2/2020/09/hacker-1-1024x538.png">
 
 
