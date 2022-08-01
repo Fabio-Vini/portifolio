@@ -4,7 +4,28 @@ Portifólio do desenvolvedor
 ## Tarefas
 O controle de tarefas desse projeto será realizado no GitHub
 
-<img width="auto" src="https://rockcontent.com/br/wp-content/uploads/sites/2/2020/09/hacker-1-1024x538.png">
+  <a href="https://github.com/Fabio-Vini">
+  <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio-Vini&hide=html&layout=compact=true&theme=radical"/>
+  <img height="230em" src="https://github-readme-stats.vercel.app/api?username=Fabio-Vini&theme=radical"/>
+</div>
+<!--[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio-Vini&hide=html&layout=compact=true&theme=radical)](https://github.com/Fabio-Vini/)
+[![card](https://github-readme-stats.vercel.app/api?username=Fabio-Vini&theme=radical)](https://github.com/FabioNeves28/)-->
+
+
+<a href="https://github.com/Fabio-Vini"> 
+
+  
+  <!-- https://devicon.dev -->
+  <img align="center" alt="Aoki-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Aoki-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
+  <img align="center" alt="Aoki-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
+  <img align="center" alt="Aoki-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg">
+  <a href="https://www.figma.com/@Sepriano"><img align="center" alt="Aoki-WordPress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></a>
+   
+  
+ 
+</div>
+  <a href="https://github.com/Fabio-Vini">
 
 
 # Fabio-Vini
